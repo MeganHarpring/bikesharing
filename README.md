@@ -1,5 +1,8 @@
 # Bikesharing
 
+
+Here is the link to my Tableau Story: [link to dashboard](https://public.tableau.com/app/profile/megan.harpring/viz/BikeshareChallenge_16550106423400/Story1?publish=yes)
+
 ### Overview of Analysis:
 
 The purpose of this analysis is to sell the idea of a bikesharing company in Des Moines, Iowa to some investors. We need to show some good data visualizations so that it is easy for the investors to understand and easy for them to see the benefits of a bike-sharing program in Des Moines. Specifically, one of the investors would like to see a bike trip analysis and to do this I had to write a python code in order to convert the datatype of the "tripduration" column from an integer to a datetime datatype. Once we have a converted dataframe we will create visualizations to show the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. We will then create a story in Tableau to pitch to investors.
